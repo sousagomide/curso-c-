@@ -1,4 +1,4 @@
 *.exe
-.bin/
-.bin/Debug/
-.obj/
+bin/
+obj/
+.vs/
