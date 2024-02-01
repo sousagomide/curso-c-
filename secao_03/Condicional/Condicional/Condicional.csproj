@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Condicional.Exercicio03</StartupObject>
+    <StartupObject>Condicional.Exercicio07</StartupObject>
   </PropertyGroup>
 
 </Project>
