@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using SalesWebMVC.Models;
+using SalesWebMVC.Models.ViewModels;
 using System.Diagnostics;
 
 namespace SalesWebMVC.Controllers {
@@ -15,6 +16,7 @@ namespace SalesWebMVC.Controllers {
         }
 
         public IActionResult Privacy() {
+            ViewData["nome"] = "Denecley Alvim";
             return View();
         }
 
